@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">GaSaCon</string>
+    <string name="gas_info">Gas info</string>
+    <string name="regulator">Regulator</string>
+    <string name="gas_left">Gas Left</string>
+    <string name="_20">20%</string>
+    <string name="book_cylinder">Book Cylinder</string>
+    <string name="gas_cylinder_info">Gas Cylinder Info</string>
+    <string name="cylinder_info">Cylinder Info</string>
+    <string name="regulator2">Regulator</string>
+    <string name="set_timer">Set Timer</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="begin">Begin</string>
+    <string name="stop">Stop</string>
+    <string name="clear">Clear</string>
+    <string name="send">Send</string>
+    <string name="ok">Ok</string>
+    <string name="example_app">Example App</string>
+    <string name="bluetooth_address">BlueTooth Address</string>
+    <string name="seconds">Seconds</string>
+    <string name="_00_00">00:00</string>
+    <string name="start">start</string>
+    <string name="home">Home</string>
+    <string name="check_day_to_day_usage">Check Usage</string>
+    <string name="recipes">Recipes</string>
+    <string name="_6_7">6-7</string>
+    <string name="puri">Puri</string>
+    <string name="dal">Dal</string>
+    <string name="egg_boiling">Egg Boiling</string>
+    <string name="dosa">Dosa</string>
+    <string name="tea">Tea</string>
+    <string name="_5">5</string>
+    <string name="rice">Rice</string>
+    <string name="milk">Milk</string>
+    <string name="_10">10</string>
+    <string name="idli">Idli</string>
+    <string name="maggi">Maggi</string>
+    <string name="_40_45">40-45</string>
+    <string name="minutes_to_cook">Minutes to cook</string>
+    <string name="_4_5">4-5</string>
+    <string name="poha">Poha</string>
+    <string name="_10_15">10-15</string>
+    <string name="_2_3">2-3</string>
+    <string name="_5_8">5-8</string>
+    <string name="_15_20">15-20</string>
+    <string name="_20_25">20-25</string>
+
+    <string-array name="day">
+        <item>Day</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+
+    </string-array>
+
+    <string-array name="month">
+        <item>Month</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>Year</item>
+        <item>2018</item>
+        <item>2019</item>
+    </string-array>
+
+</resources>
